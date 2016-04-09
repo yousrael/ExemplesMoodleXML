@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <question type="multichoice">
 	<name>
-		<text>Demo question à choix multiples</text>
+		<text>Demo question Ã  choix multiples</text>
 	</name>
 	<questiontext format="html">
-		<text>Quel est la bonne réponse ?</text>
+		<text>Quel est la bonne rÃ©ponse ?</text>
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<answer fraction="100">
-		<text>Ceci est la bonne réponse</text>
+		<text>Ceci est la bonne rÃ©ponse</text>
 		<feedback>
 			<text>Bravo !</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
-		<text>Une mauvaise réponse</text>
+		<text>Une mauvaise rÃ©ponse</text>
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
-		<text>Une autre mauvaise réponse</text>
+		<text>Une autre mauvaise rÃ©ponse</text>
 		<feedback>
 			<text>Ooops!</text>
 		</feedback>
@@ -32,14 +32,14 @@
 		<text>Demo question d'appariement</text>
 	</name>
 	<questiontext format="html">
-		<text>Quel est la bonne réponse ?</text>
+		<text>Quel est la bonne rÃ©ponse ?</text>
 	</questiontext>
 	<penalty>1</penalty>
 	<defaultgrade>1</defaultgrade>
 	<subquestion>
-		<text>Premier item de la première paire</text>
+		<text>Premier item de la premiÃ¨re paire</text>
 		<answer>
-			<text>Second item de le première paire</text>
+			<text>Second item de le premiÃ¨re paire</text>
 		</answer>
 	</subquestion>
 	<subquestion>
@@ -50,3 +50,4 @@
 	</subquestion>
 	<shuffleanswers>true </shuffleanswers>
 </question>
+
